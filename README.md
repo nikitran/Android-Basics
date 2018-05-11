@@ -1,4 +1,4 @@
-# Android Basics
+# Android Fundamentals
 
 ## Core components
 
