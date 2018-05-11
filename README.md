@@ -30,6 +30,7 @@
 | ------------- |-------------|
 | Data Binding | |
 | Testing | Making test cases using JUnit, Espresso, Mockito|
+| Permissions |Types of permissions|
 
 ## Core concepts
 | Sample        | Description       
@@ -63,20 +64,11 @@
 | Glide | |
 | Picasso | |
 
-#### ORMs
-| Sample        | Description |       
-| ------------- |-------------|
-| Realm | |
-| Sugar | |
-
 #### Analytics
 | Sample        | Description |       
 | ------------- |-------------|
-| Mixpanel| |
-| Answers | |
 | Crashlytics | |
 | Firebase analytics | |
-| Flurry | |
 
 #### Push notification
 | Sample        | Description |       
